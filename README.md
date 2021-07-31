@@ -8,16 +8,18 @@ https://blog.serverworks.co.jp/introducing-pyspark-4
 
 ブログで使用するコードおよびデータファイルをダウンロードできます。
 
-## コード
+## メインソースコード
+
+### ソースコード
 
 `./src/questionnaire_analysis.py`
 
-## データ
+### データ
 
 コードが正しく動作するには、以下の三つのファイルが全部必要です。
-`./src/questionnaire_data_1.txt`
-`./src/questionnaire_data_2.txt`
-`./src/questionnaire_data_3.txt`
+`./data/questionnaire_data_1.txt`
+`./data/questionnaire_data_2.txt`
+`./data/questionnaire_data_3.txt`
 
 ## サンプルデータ作成スクリプト
 
@@ -35,8 +37,7 @@ https://blog.serverworks.co.jp/introducing-pyspark-4
 
 #### 前提
 
-1. `/blog-src/pyspark/vol4`ディレクトリで実行すること
-2. pipenvがインストールされていること(https://pipenv-ja.readthedocs.io/ja/translate-ja/install.html#installing-pipenv)
+pipenvがインストールされていること(https://pipenv-ja.readthedocs.io/ja/translate-ja/install.html#installing-pipenv)
 
 #### コマンド
 
