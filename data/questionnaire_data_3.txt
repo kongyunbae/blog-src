@@ -78,7 +78,7 @@
 佐藤 直樹,atsushinakamura@hotmail.com,23,男,5,5
 佐々木 智也,cnakamura@yahoo.com,55,女,1,4
 山崎 直子,tsubasaishikawa@kimura.jp,50,女,1,2
-小林 裕美子,maitanaka@yahoo.com,25,男,4,3
+小林 裕美子,maitanaka11@yahoo.com,25,男,4,3
 池田 真綾,okadayuta@hotmail.com,21,女,3,5
 井上 直人,yoshidanaoto@yahoo.com,49,女,1,4
 阿部 洋介,manabusato@yahoo.com,21,女,5,4

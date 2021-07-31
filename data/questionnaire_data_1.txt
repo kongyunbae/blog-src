@@ -89,7 +89,7 @@
 小林 さゆり,momoko11@yahoo.com,61,男,4,4
 伊藤 千代,jyoshida@miura.com,33,男,2,2
 中島 結衣,kobayashimaaya@gmail.com,52,男,4,2
-高橋 英樹,hanako25@hotmail.com,40,男,2,1
+高橋 英樹,hanako251@hotmail.com,40,男,2,1
 佐藤 あすか,ffujii@hotmail.com,23,男,2,3
 渡辺 淳,yoko20@nakamura.jp,31,男,3,2
 松田 明美,ryoheimurakami@yahoo.com,43,女,5,5
@@ -217,7 +217,7 @@
 石井 零,kenichi83@murakami.com,30,男,3,3
 鈴木 裕太,yui72@miura.net,35,男,5,4
 山下 直子,ryoheihashimoto@gmail.com,28,女,5,1
-藤井 和也,yuta29@gmail.com,34,男,2,4
+藤井 和也,yuta219@gmail.com,34,男,2,4
 高橋 洋介,miturukato@ogawa.com,28,女,2,2
 前田 英樹,akira52@hotmail.com,54,男,5,5
 前田 陽子,kishikawa@gmail.com,44,女,1,5
@@ -233,7 +233,7 @@
 福田 桃子,satomisato@maeda.com,36,女,1,1
 佐藤 智也,yuta29@gmail.com,52,男,5,3
 吉田 知実,yasuhiroyamamoto@suzuki.com,43,女,4,4
-岡本 美加子,dinoue@hotmail.com,64,女,5,1
+岡本 美加子,dinoue1@hotmail.com,64,女,5,1
 阿部 七夏,yuki27@yoshida.com,53,男,2,1
 加藤 明美,kenichi19@tanaka.org,20,男,2,2
 高橋 拓真,yamadahideki@hotmail.com,37,女,4,4
